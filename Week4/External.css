@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel:wght@200&display=swap');
+h1{
+    background-color:aqua;
+    font-size:60px;
+    color:blue;
+    font-family: 'Martel', serif;
+}
+p{
+    background-color:black;
+    font-size:20px;
+    color:white
+}
